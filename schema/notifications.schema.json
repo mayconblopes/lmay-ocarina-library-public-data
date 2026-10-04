@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mayconblopes.github.io/lmay-ocarina-library-public-data/schema/notifications.schema.json",
+  "title": "L.May Ocarina Library public notifications",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "notifications"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "notifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "type", "startsAt", "expiresAt", "title", "message"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$",
+            "description": "Stable unique identifier; do not reuse it for a different notice."
+          },
+          "type": { "enum": ["info", "warning", "maintenance"] },
+          "startsAt": {
+            "type": "string",
+            "format": "date-time",
+            "pattern": "Z$",
+            "description": "Publication start time in ISO 8601 UTC."
+          },
+          "expiresAt": {
+            "type": "string",
+            "format": "date-time",
+            "pattern": "Z$",
+            "description": "Expiration time in ISO 8601 UTC; must be later than startsAt."
+          },
+          "title": { "$ref": "#/$defs/localizedText" },
+          "message": { "$ref": "#/$defs/localizedText" },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://",
+            "description": "Optional HTTPS destination for more information."
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pt-BR", "en"],
+      "properties": {
+        "pt-BR": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      }
+    }
+  }
+}
