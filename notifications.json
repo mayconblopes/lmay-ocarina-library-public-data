@@ -1,4 +1,28 @@
 {
-  "schemaVersion": 1,
-  "notifications": []
+  "notifications": [
+    {
+      "action": {
+        "label": {
+          "en": "Read article",
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/articles/multi-chamber-ocarinas-japanese-refinement-italian-art/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/ocarinas-de-multiplas-camaras-o-refinamento-japones-de-uma-arte-italiana/"
+        }
+      },
+      "id": "mensagem-artigo-ocarinas-de-multiplas-camaras-o-refinamento-japones-de-uma-arte-italiana-20261013t191426762z",
+      "message": {
+        "en": "A historical journey through the development of multi-chamber ocarinas in the 19th, 20th, and 21st centuries",
+        "pt-BR": "Uma narrativa histórica das ocarinas de múltiplas câmaras no século XIX, XX e XXI"
+      },
+      "startsAt": "2026-10-13T19:14:26.762Z",
+      "title": {
+        "en": "Multi-Chamber Ocarinas: The Japanese Refinement of an Italian Art?",
+        "pt-BR": "Ocarinas de Múltiplas Câmaras: O Refinamento Japonês de Uma Arte Italiana?"
+      },
+      "type": "info"
+    }
+  ],
+  "schemaVersion": 1
 }
