@@ -3,6 +3,28 @@
     {
       "action": {
         "label": {
+          "en": "Privacy Policy",
+          "pt-BR": "Política de Privacidade"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/privacy/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/privacidade/"
+        }
+      },
+      "id": "manutencao-44e49e6b6bf3",
+      "message": {
+        "en": "The privacy policy has been updated. See it at: https://ocarinalibrary.barretolopes.com/en/privacy/",
+        "pt-BR": "Atualização da política de privacidade\nA política de privacidade foi atualizada. Consulte em: https://ocarinalibrary.barretolopes.com/privacidade/"
+      },
+      "title": {
+        "en": "Privacy Policy Update",
+        "pt-BR": "Atualização da política de privacidade"
+      },
+      "type": "maintenance"
+    },
+    {
+      "action": {
+        "label": {
           "en": "Read article",
           "pt-BR": "Ler artigo"
         },
