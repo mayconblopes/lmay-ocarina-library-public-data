@@ -7,6 +7,29 @@
           "pt-BR": "Ler artigo"
         },
         "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/articles/night-unveils-new-unglazed-ocarina/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/night-kiwami-ac-muku/"
+        }
+      },
+      "id": "mensagem-artigo-night-kiwami-ac-muku-20261025t121450157z",
+      "message": {
+        "en": "The Muku version of the NIGHT Kiwami AC preserves the natural appearance of unglazed ceramic with a beeswax finish. The video also announces a hands-on event in Chigasaki, Japan.",
+        "pt-BR": "A versão Muku do NIGHT Kiwami AC preserva a aparência da cerâmica sem esmalte e recebe acabamento de cera de abelha. O vídeo também anuncia uma sessão de experimentação em Chigasaki, no Japão."
+      },
+      "startsAt": "2026-10-25T12:14:50.157Z",
+      "title": {
+        "en": "NIGHT Unveils New Unglazed Ocarina",
+        "pt-BR": "NIGHT apresenta nova ocarina, sem esmalte"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
+          "en": "Read article",
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
           "en": "https://ocarinalibrary.barretolopes.com/en/articles/i-discovered-the-ocarina-now-what/",
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/descobri-a-ocarina-e-agora/"
         }
