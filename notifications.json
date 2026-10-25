@@ -11,6 +11,29 @@
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/descobri-a-ocarina-e-agora/"
         }
       },
+      "id": "mensagem-artigo-descobri-a-ocarina-e-agora-20261024t215651076z",
+      "message": {
+        "en": "So you've discovered this amazing musical instrument, but you're not sure which ocarina to buy, where to get one, or how to start learning? I wrote this article specifically to answer those questions!",
+        "pt-BR": "Então você descobriu esse incrível instrumento musical, mas não sabe onde ou qual modelo deve comprar e também ainda não sabe o melhor caminho para começar a aprender? Escrevi este artigo exatamente pensando em responder essas questões!"
+      },
+      "startsAt": "2026-10-24T21:56:51.076Z",
+      "title": {
+        "en": "I Discovered the Ocarina. Now What?",
+        "pt-BR": "Descobri a ocarina. E agora?"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
+          "en": "Read article",
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/articles/i-discovered-the-ocarina-now-what/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/descobri-a-ocarina-e-agora/"
+        }
+      },
       "id": "mensagem-artigo-descobri-a-ocarina-e-agora-20261024t214118083z",
       "message": {
         "en": "So you've discovered this amazing musical instrument, but you don't know where to buy one, which model to choose, or the best way to start learning? I wrote this article specifically to answer those questions!",
