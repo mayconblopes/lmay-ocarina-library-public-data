@@ -3,6 +3,25 @@
     {
       "action": {
         "label": {
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/coletanea-de-zelda/"
+        }
+      },
+      "id": "mensagem-artigo-coletanea-de-zelda-20261030t103931348z",
+      "message": {
+        "pt-BR": "Uma coleção de músicas de Zelda com arranjos para Ocarina."
+      },
+      "startsAt": "2026-10-30T10:39:31.348Z",
+      "title": {
+        "pt-BR": "Coletânea de Zelda"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
           "en": "Read article",
           "pt-BR": "Ler artigo"
         },
