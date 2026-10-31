@@ -11,6 +11,29 @@
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/ocarinas-plasticas-das-guerras-mundiais-um-mito/"
         }
       },
+      "id": "mensagem-artigo-ocarinas-plasticas-das-guerras-mundiais-um-mito-20261028t110323554z",
+      "message": {
+        "en": "A historical account of plastic ocarinas",
+        "pt-BR": "Uma narrativa histórica das ocarinas de plástico"
+      },
+      "startsAt": "2026-10-28T11:03:23.554Z",
+      "title": {
+        "en": "Plastic Ocarinas of the World Wars: Myth or Reality?",
+        "pt-BR": "Ocarinas plásticas das guerras mundiais: um mito?"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
+          "en": "Read article",
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/articles/plastic-ocarinas-world-wars-myth/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/ocarinas-plasticas-das-guerras-mundiais-um-mito/"
+        }
+      },
       "id": "mensagem-artigo-ocarinas-plasticas-das-guerras-mundiais-um-mito-20261028t105737234z",
       "message": {
         "en": "A historical account of plastic ocarinas",
