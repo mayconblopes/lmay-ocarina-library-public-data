@@ -7,6 +7,29 @@
           "pt-BR": "Músicas de Zelda"
         },
         "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/articles/zelda-music-collection/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/coletanea-de-zelda/"
+        }
+      },
+      "id": "mensagem-artigo-coletanea-de-zelda-20261031t183012910z",
+      "message": {
+        "en": "A collection of Zelda songs arranged for the ocarina. Bolero of Fire, Epona’s Song, and Gerudo Valley now include interactive tablature and sheet music.",
+        "pt-BR": "Uma coleção de músicas de Zelda com arranjos para Ocarina. Bolero of Fire, Epona Song, Gerudo Valley: inclusão de tablatura iterativa + partitura"
+      },
+      "startsAt": "2026-10-31T18:30:12.910Z",
+      "title": {
+        "en": "Zelda Collection",
+        "pt-BR": "Coletânea de Zelda"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
+          "en": "Zelda Songs",
+          "pt-BR": "Músicas de Zelda"
+        },
+        "url": {
           "en": "https://ocarinalibrary.barretolopes.com/en/articles/zelda-collection/",
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/coletanea-de-zelda/"
         }
