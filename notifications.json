@@ -3,6 +3,29 @@
     {
       "action": {
         "label": {
+          "en": "Read article",
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/articles/getting-started-with-the-ocarina/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/primeiros-passos-na-ocarina/"
+        }
+      },
+      "id": "mensagem-artigo-primeiros-passos-na-ocarina-20261102t152100755z",
+      "message": {
+        "en": "New to the ocarina? This guide covers everything you need to get started, from choosing your instrument to playing your first notes.",
+        "pt-BR": "Está começando na ocarina? Este guia é tudo que você precisa para iniciar sua jornada, desde a escolha do instrumento até as primeiras notas."
+      },
+      "startsAt": "2026-11-02T15:21:00.755Z",
+      "title": {
+        "en": "Getting Started with the Ocarina: A Beginner's Guide",
+        "pt-BR": "Primeiros passos na ocarina: um guia para começar"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
           "pt-BR": "Ler artigo"
         },
         "url": {
