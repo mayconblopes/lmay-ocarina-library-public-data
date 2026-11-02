@@ -3,6 +3,25 @@
     {
       "action": {
         "label": {
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/primeiros-passos-na-ocarina/"
+        }
+      },
+      "id": "mensagem-artigo-primeiros-passos-na-ocarina-20261102t102139545z",
+      "message": {
+        "pt-BR": "Está começando na ocarina? Este guia é tudo que você precisa para iniciar sua jornada, desde a escolha do instrumento até as primeiras notas."
+      },
+      "startsAt": "2026-11-02T10:21:39.545Z",
+      "title": {
+        "pt-BR": "Primeiros passos na ocarina: um guia para começar"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
           "en": "Zelda Songs",
           "pt-BR": "Músicas de Zelda"
         },
