@@ -7,6 +7,8 @@ Este repositório distribui arquivos JSON públicos para a Library e seus aplica
 - [notifications.json](./notifications.json): avisos e comunicados exibidos pelos clientes.
 - [schema/notifications.schema.json](./schema/notifications.schema.json): contrato do arquivo de notificações (JSON Schema Draft 2020-12).
 - [schema/validate_notifications.py](./schema/validate_notifications.py): verificação local sem dependências externas.
+- [products.json](./products.json): produtos indicados pela Library, com links e cupons opcionais.
+- [schema/products.schema.json](./schema/products.schema.json): contrato do catálogo de produtos (JSON Schema Draft 2020-12).
 
 ## Notificações
 
@@ -29,3 +31,7 @@ Todo conteúdo deste repositório e qualquer arquivo publicado pelo GitHub Pages
 ## Expansão
 
 Outros dados públicos podem ser adicionados em arquivos próprios, com schema e documentação. Mantenha os contratos existentes compatíveis; mudanças incompatíveis devem receber uma nova versão de schema e ser coordenadas com os clientes.
+
+## Produtos indicados
+
+Cada item em `products.json` tem um `id`, nome e descrição em `pt-BR`, e um link HTTPS para o produto. Os textos em inglês, marca e imagem são opcionais. Um produto pode incluir um cupom com código e descrição; `expiresAt` é opcional e, quando informado, usa data e hora ISO 8601 UTC. Os clientes devem exibir a validade quando existir e continuar aceitando cupons sem prazo informado.

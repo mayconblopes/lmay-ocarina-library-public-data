@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mayconblopes.github.io/lmay-ocarina-library-public-data/schema/products.schema.json",
+  "title": "L.May Ocarina Library recommended products",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "products"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "description", "url"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+          "name": { "$ref": "#/$defs/localizedText" },
+          "description": { "$ref": "#/$defs/localizedText" },
+          "brand": { "type": "string", "minLength": 1 },
+          "image": { "type": "string", "format": "uri", "pattern": "^https://" },
+          "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+          "coupon": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["code"],
+            "properties": {
+              "code": { "type": "string", "minLength": 1 },
+              "description": { "$ref": "#/$defs/localizedText" },
+              "expiresAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "Z$",
+                "description": "Optional coupon expiration time in ISO 8601 UTC."
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pt-BR"],
+      "properties": {
+        "pt-BR": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      }
+    }
+  }
+}
