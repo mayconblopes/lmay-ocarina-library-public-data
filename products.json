@@ -1,4 +1,33 @@
 {
-  "schemaVersion": 1,
-  "products": []
+  "products": [
+    {
+      "brand": "Standard",
+      "description": {
+        "en": "Plastic ocarina, basic, durable, with decent sound quality. Excellent for beginners, as it is affordable and offers good tonal quality.",
+        "pt-BR": "Ocarina de plástico, básica, resistente, som decente. Excelente para iniciantes, pois possuem preço acessível e oferecem boa qualidade sonora."
+      },
+      "id": "produto-c5f04cdc77",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/mini-2dc202e9-cde7-4d48-9e3a-28e24481ac19.zpbtCKFC.webp",
+      "name": {
+        "en": "Montreal Ocarinas",
+        "pt-BR": "Ocarinas da Montreal"
+      },
+      "url": "https://collshp.com/lopes.maycon949"
+    },
+    {
+      "brand": "Nomad",
+      "description": {
+        "en": "Compact and durable ocarinas of excellent quality. Innovative design. Inline models. Velvety tone.",
+        "pt-BR": "Ocarinas compactas e duradouras, de excelente qualidade. Design inovador. Modelos \"inline\". Som aveludado."
+      },
+      "id": "produto-ca762fca9e",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/nomad%204.BI2lsFnk.png",
+      "name": {
+        "en": "Nomad Ocarinas",
+        "pt-BR": "Ocarinas Nomad"
+      },
+      "url": "https://meli.la/2MjA9C2"
+    }
+  ],
+  "schemaVersion": 1
 }
