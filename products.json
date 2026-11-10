@@ -1,6 +1,61 @@
 {
   "products": [
     {
+      "brand": "Musicar em Casa",
+      "description": {
+        "en": "Musicar em Casa produces good-quality 3D-printed ocarinas designed for students. Personally, I find that they have limited sound projection, but they are good instruments for beginners and a solid Brazilian-made option. They offer both single and double ocarinas, though I particularly recommend the single models.",
+        "pt-BR": "A Musicar em Casa faz ocarinas em 3D de boa qualidade para estudantes. Eu particularmente acho que possuem pouca projeção sonora, mas são boas ocarinas para iniciar os estudos e é uma opção brasileira. Possuem ocarinas simples e duplas. Recomendo as simples."
+      },
+      "id": "produto-854fed5333",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/Trio%20de%20ocarinas%203D%20coloridas-4.BKnLDG-r.png",
+      "name": {
+        "en": "Musicar em Casa",
+        "pt-BR": "Musicar em Casa"
+      },
+      "url": "https://www.instagram.com/musicar_em_casa/"
+    },
+    {
+      "description": {
+        "en": "It is the best-known and most respected Brazilian ceramic ocarina brand. It offers a wide range of models, including single, double, and triple ocarinas, as well as soprano, alto, bass, and other varieties.",
+        "pt-BR": "É a melhor e mais renomada marca brasileira de ocarinas de cerâmica. Tem ocarinas simples, duplas e triplas, sopranos contralto, baixo etc."
+      },
+      "id": "produto-545817670f",
+      "image": "https://ocarinalibrary.barretolopes.com/drive/images/ocarinas/ventokanta/triple-bitumen--b7cd1d4d.jpg",
+      "name": {
+        "en": "VentoKanta Ocarina",
+        "pt-BR": "Ocarina VentoKanta"
+      },
+      "url": "https://www.instagram.com/vento_kanta/"
+    },
+    {
+      "brand": "TD",
+      "description": {
+        "en": "This is a handmade Chinese ocarina crafted from maple wood. It features an excellent tone, smooth and sweet in character.",
+        "pt-BR": "Esta é uma ocarina chinesa feita à mão, de madeira bordo, também conhecida como maple. Timbre excelente, suave e doce."
+      },
+      "id": "produto-de3ca6e363",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/Retrato%20com%20Ocarina%20de%20Madeira.CmF6hA23.png",
+      "name": {
+        "en": "Wood Ocarina",
+        "pt-BR": "Ocarina de madeira"
+      },
+      "url": "https://s.click.aliexpress.com/e/_mOPwMbd"
+    },
+    {
+      "brand": "Longxuan",
+      "description": {
+        "en": "It's an excellent choice for beginners, just as good and affordable as the Montreal.",
+        "pt-BR": "É excelente para começar, tão boa e barata quanto a Montreal."
+      },
+      "id": "produto-b560f5ecb8",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/longxuan-ocarina.Dw0blw1r.png",
+      "name": {
+        "en": "Longxuan Ocarina",
+        "pt-BR": "Ocarina Longxuan"
+      },
+      "url": "https://s.click.aliexpress.com/e/_mM6iQ1Z"
+    },
+    {
       "brand": "Standard",
       "description": {
         "en": "Plastic ocarina, basic, durable, with decent sound quality. Excellent for beginners, as it is affordable and offers good tonal quality.",
@@ -16,9 +71,17 @@
     },
     {
       "brand": "Nomad",
+      "coupon": {
+        "code": "OCARINOV26",
+        "description": {
+          "en": "5% OFF",
+          "pt-BR": "5% OFF"
+        },
+        "expiresAt": "2026-12-01T03:00:00.000Z"
+      },
       "description": {
         "en": "Compact and durable ocarinas of excellent quality. Innovative design. Inline models. Velvety tone.",
-        "pt-BR": "Ocarinas compactas e duradouras, de excelente qualidade. Design inovador. Modelos \"inline\". Som aveludado."
+        "pt-BR": "Ocarinas compactas e duradouras, de excelente qualidade. Design inovador. Modelos \"inline\". Som aveludado. Excelente fabricante brasileiro!"
       },
       "id": "produto-ca762fca9e",
       "image": "https://ocarinalibrary.barretolopes.com/_astro/nomad%204.BI2lsFnk.png",
