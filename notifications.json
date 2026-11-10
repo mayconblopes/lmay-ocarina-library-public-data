@@ -3,6 +3,29 @@
     {
       "action": {
         "label": {
+          "en": "View the National Registry",
+          "pt-BR": "Ver Cadastro Nacional"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/national-ocarina-registry/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/cadastro-nacional-de-ocarinistas/"
+        }
+      },
+      "id": "mensagem-cadastro-nacional-11-mw5ays2r-eddd5fbc",
+      "message": {
+        "en": "**João Guilherme** has joined the National Ocarinist Registry as entry nº 11.",
+        "pt-BR": "**João Guilherme** foi incluído(a) no Cadastro Nacional de Ocarinistas, no registro nº 11."
+      },
+      "startsAt": "2026-11-06T18:23:14.596Z",
+      "title": {
+        "en": "New National Registry entry: João Guilherme",
+        "pt-BR": "Novo Cadastro Nacional: João Guilherme"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
           "en": "Read article",
           "pt-BR": "Ler artigo"
         },
