@@ -3,6 +3,25 @@
     {
       "action": {
         "label": {
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/o-melhor-do-forum-the-ocarina-network/"
+        }
+      },
+      "id": "mensagem-artigo-o-melhor-do-forum-the-ocarina-network-20261107t102531526z",
+      "message": {
+        "pt-BR": "Uma coletânea editorial comentada sobre estudo, afinação, instrumentos, cuidados, história e repertório, a partir de 24 pautas da comunidade The Ocarina Network."
+      },
+      "startsAt": "2026-11-07T10:25:31.526Z",
+      "title": {
+        "pt-BR": "O melhor do fórum The Ocarina Network"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
           "en": "View the National Registry",
           "pt-BR": "Ver Cadastro Nacional"
         },
