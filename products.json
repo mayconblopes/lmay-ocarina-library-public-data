@@ -1,20 +1,6 @@
 {
   "products": [
     {
-      "brand": "Musicar em Casa",
-      "description": {
-        "en": "Musicar em Casa produces good-quality 3D-printed ocarinas designed for students. Personally, I find that they have limited sound projection, but they are good instruments for beginners and a solid Brazilian-made option. They offer both single and double ocarinas, though I particularly recommend the single models.",
-        "pt-BR": "A Musicar em Casa faz ocarinas em 3D de boa qualidade para estudantes. Eu particularmente acho que possuem pouca projeção sonora, mas são boas ocarinas para iniciar os estudos e é uma opção brasileira. Possuem ocarinas simples e duplas. Recomendo as simples."
-      },
-      "id": "produto-854fed5333",
-      "image": "https://ocarinalibrary.barretolopes.com/_astro/Trio%20de%20ocarinas%203D%20coloridas-4.BKnLDG-r.png",
-      "name": {
-        "en": "Musicar em Casa",
-        "pt-BR": "Musicar em Casa"
-      },
-      "url": "https://www.instagram.com/musicar_em_casa/"
-    },
-    {
       "description": {
         "en": "It is the best-known and most respected Brazilian ceramic ocarina brand. It offers a wide range of models, including single, double, and triple ocarinas, as well as soprano, alto, bass, and other varieties.",
         "pt-BR": "É a melhor e mais renomada marca brasileira de ocarinas de cerâmica. Tem ocarinas simples, duplas e triplas, sopranos contralto, baixo etc."
@@ -28,49 +14,23 @@
       "url": "https://www.instagram.com/vento_kanta/"
     },
     {
-      "brand": "TD",
-      "description": {
-        "en": "This is a handmade Chinese ocarina crafted from maple wood. It features an excellent tone, smooth and sweet in character.",
-        "pt-BR": "Esta é uma ocarina chinesa feita à mão, de madeira bordo, também conhecida como maple. Timbre excelente, suave e doce."
-      },
-      "id": "produto-de3ca6e363",
-      "image": "https://ocarinalibrary.barretolopes.com/_astro/Retrato%20com%20Ocarina%20de%20Madeira.CmF6hA23.png",
-      "name": {
-        "en": "Wood Ocarina",
-        "pt-BR": "Ocarina de madeira"
-      },
-      "url": "https://s.click.aliexpress.com/e/_mOPwMbd"
-    },
-    {
-      "brand": "Longxuan",
-      "description": {
-        "en": "It's an excellent choice for beginners, just as good and affordable as the Montreal.",
-        "pt-BR": "É excelente para começar, tão boa e barata quanto a Montreal."
-      },
-      "id": "produto-b560f5ecb8",
-      "image": "https://ocarinalibrary.barretolopes.com/_astro/longxuan-ocarina.Dw0blw1r.png",
-      "name": {
-        "en": "Longxuan Ocarina",
-        "pt-BR": "Ocarina Longxuan"
-      },
-      "url": "https://s.click.aliexpress.com/e/_mM6iQ1Z"
-    },
-    {
-      "brand": "Standard",
-      "description": {
-        "en": "Plastic ocarina, basic, durable, with decent sound quality. Excellent for beginners, as it is affordable and offers good tonal quality.",
-        "pt-BR": "Ocarina de plástico, básica, resistente, som decente. Excelente para iniciantes, pois possuem preço acessível e oferecem boa qualidade sonora."
-      },
-      "id": "produto-c5f04cdc77",
-      "image": "https://ocarinalibrary.barretolopes.com/_astro/mini-2dc202e9-cde7-4d48-9e3a-28e24481ac19.zpbtCKFC.webp",
-      "name": {
-        "en": "Montreal Ocarinas",
-        "pt-BR": "Ocarinas da Montreal"
-      },
-      "url": "https://collshp.com/lopes.maycon949"
-    },
-    {
       "brand": "Nomad",
+      "buttons": [
+        {
+          "label": {
+            "en": "Review (video)",
+            "pt-BR": "Review (video)"
+          },
+          "url": "https://youtu.be/E9dx50t8eUg"
+        },
+        {
+          "label": {
+            "en": "Review(article)",
+            "pt-BR": "Review( artigo)"
+          },
+          "url": "https://ocarinalibrary.barretolopes.com/artigos/conheca-as-ocarinas-da-nomad/"
+        }
+      ],
       "coupon": {
         "code": "OCARINOV26",
         "description": {
@@ -90,6 +50,114 @@
         "pt-BR": "Ocarinas Nomad"
       },
       "url": "https://meli.la/2MjA9C2"
+    },
+    {
+      "brand": "Standard",
+      "description": {
+        "en": "Plastic ocarina, basic, durable, with decent sound quality. Excellent for beginners, as it is affordable and offers good tonal quality.",
+        "pt-BR": "Ocarina de plástico, básica, resistente, som decente. Excelente para iniciantes, pois possuem preço acessível e oferecem boa qualidade sonora."
+      },
+      "id": "produto-c5f04cdc77",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/mini-2dc202e9-cde7-4d48-9e3a-28e24481ac19.zpbtCKFC.webp",
+      "name": {
+        "en": "Montreal Ocarinas",
+        "pt-BR": "Ocarinas da Montreal"
+      },
+      "url": "https://collshp.com/lopes.maycon949"
+    },
+    {
+      "brand": "Longxuan",
+      "description": {
+        "en": "It's an excellent choice for beginners, just as good and affordable as the Montreal.",
+        "pt-BR": "É excelente para começar, tão boa e barata quanto a Montreal."
+      },
+      "id": "produto-b560f5ecb8",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/longxuan-ocarina.Dw0blw1r.png",
+      "imageCrop": {
+        "x": 0.010905125408942205,
+        "y": -0.3722282806252272,
+        "zoom": 1
+      },
+      "name": {
+        "en": "Longxuan Ocarina",
+        "pt-BR": "Ocarina Longxuan"
+      },
+      "url": "https://s.click.aliexpress.com/e/_mM6iQ1Z"
+    },
+    {
+      "brand": "TD",
+      "buttons": [
+        {
+          "label": {
+            "en": "Unboxing",
+            "pt-BR": "Unboxing"
+          },
+          "url": "https://youtube.com/shorts/kPhEdvml-_o"
+        }
+      ],
+      "description": {
+        "en": "This is a handmade Chinese ocarina crafted from maple wood. It features an excellent tone, smooth and sweet in character.",
+        "pt-BR": "Esta é uma ocarina chinesa feita à mão, de madeira bordo, também conhecida como maple. Timbre excelente, suave e doce."
+      },
+      "id": "produto-de3ca6e363",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/Retrato%20com%20Ocarina%20de%20Madeira.CmF6hA23.png",
+      "imageCrop": {
+        "x": 0.04143947655398037,
+        "y": -0.747364594692839,
+        "zoom": 1
+      },
+      "name": {
+        "en": "Wood Ocarina",
+        "pt-BR": "Ocarina de madeira"
+      },
+      "url": "https://s.click.aliexpress.com/e/_mOPwMbd"
+    },
+    {
+      "brand": "Musicar em Casa",
+      "buttons": [
+        {
+          "label": {
+            "en": "Review",
+            "pt-BR": "Review"
+          },
+          "url": "https://youtu.be/nnKyPNKxrWo"
+        }
+      ],
+      "description": {
+        "en": "Musicar em Casa produces good-quality 3D-printed ocarinas designed for students. Personally, I find that they have limited sound projection, but they are good instruments for beginners and a solid Brazilian-made option. They offer both single and double ocarinas, though I particularly recommend the single models.",
+        "pt-BR": "A Musicar em Casa faz ocarinas em 3D de boa qualidade para estudantes. Eu particularmente acho que possuem pouca projeção sonora, mas são boas ocarinas para iniciar os estudos e é uma opção brasileira. Possuem ocarinas simples e duplas. Recomendo as simples."
+      },
+      "id": "produto-854fed5333",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/Trio%20de%20ocarinas%203D%20coloridas-4.BKnLDG-r.png",
+      "imageCrop": {
+        "x": 0.549618320610687,
+        "y": -0.17739003998545982,
+        "zoom": 1
+      },
+      "name": {
+        "en": "Musicar em Casa",
+        "pt-BR": "Musicar em Casa"
+      },
+      "url": "https://www.instagram.com/musicar_em_casa/"
+    },
+    {
+      "brand": "L.May Ocarina Library",
+      "description": {
+        "en": "Read this article to learn more about these and other ocarina options!",
+        "pt-BR": "Leia este artigo para saber mais sobre essas e outras opções de ocarinas!"
+      },
+      "id": "produto-60ea52a876",
+      "image": "https://ocarinalibrary.barretolopes.com/_astro/descobri-e-agora-cover-pt-BR.Bnz5v2Jb.png",
+      "imageCrop": {
+        "x": 0.9858233369683752,
+        "y": -0.12,
+        "zoom": 1
+      },
+      "name": {
+        "en": "I Discovered the Ocarina. Now What?",
+        "pt-BR": "Descobri a Ocarina e agora?"
+      },
+      "url": "https://ocarinalibrary.barretolopes.com/artigos/descobri-a-ocarina-e-agora/"
     }
   ],
   "schemaVersion": 1
