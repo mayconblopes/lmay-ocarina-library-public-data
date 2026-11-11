@@ -11,7 +11,7 @@
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/descobri-a-ocarina-e-agora/"
         }
       },
-      "id": "mensagem-artigo-descobri-a-ocarina-e-agora-20261110t223846338z",
+      "id": "mensagem-artigo-descobri-a-ocarina-e-agora",
       "message": {
         "en": "So you've discovered this amazing musical instrument, but you don't know where to buy one, which model to choose, or the best way to start learning? I wrote this article specifically to answer those questions!",
         "pt-BR": "Então você descobriu esse incrível instrumento musical, mas não sabe onde ou qual modelo deve comprar e também ainda não sabe o melhor caminho para começar a aprender? Escrevi este artigo exatamente pensando em responder essas questões!"
@@ -26,59 +26,17 @@
     {
       "action": {
         "label": {
-          "en": "Read article",
-          "pt-BR": "Ler artigo"
-        },
-        "url": {
-          "en": "https://ocarinalibrary.barretolopes.com/en/articles/i-discovered-the-ocarina-now-what/",
-          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/descobri-a-ocarina-e-agora/"
-        }
-      },
-      "id": "mensagem-artigo-descobri-a-ocarina-e-agora-20261110t222623398z",
-      "message": {
-        "en": "So you've discovered this amazing musical instrument, but you don't know where to buy one, which model to choose, or the best way to start learning? I wrote this article specifically to answer those questions!",
-        "pt-BR": "Então você descobriu esse incrível instrumento musical, mas não sabe onde ou qual modelo deve comprar e também ainda não sabe o melhor caminho para começar a aprender? Escrevi este artigo exatamente pensando em responder essas questões!"
-      },
-      "startsAt": "2026-11-10T22:26:23.398Z",
-      "title": {
-        "en": "I Discovered the Ocarina. Now What?",
-        "pt-BR": "Descobri a ocarina. E agora?"
-      },
-      "type": "info"
-    },
-    {
-      "action": {
-        "label": {
           "pt-BR": "Ler artigo"
         },
         "url": {
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/o-melhor-do-forum-the-ocarina-network/"
         }
       },
-      "id": "mensagem-artigo-o-melhor-do-forum-the-ocarina-network-20261107t112643905z",
+      "id": "mensagem-artigo-o-melhor-do-forum-the-ocarina-network",
       "message": {
         "pt-BR": "Uma coletânea editorial comentada sobre estudo, afinação, instrumentos, cuidados, história e repertório, a partir de 24 pautas da comunidade The Ocarina Network."
       },
       "startsAt": "2026-11-07T11:26:43.905Z",
-      "title": {
-        "pt-BR": "O melhor do fórum The Ocarina Network"
-      },
-      "type": "info"
-    },
-    {
-      "action": {
-        "label": {
-          "pt-BR": "Ler artigo"
-        },
-        "url": {
-          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/o-melhor-do-forum-the-ocarina-network/"
-        }
-      },
-      "id": "mensagem-artigo-o-melhor-do-forum-the-ocarina-network-20261107t102531526z",
-      "message": {
-        "pt-BR": "Uma coletânea editorial comentada sobre estudo, afinação, instrumentos, cuidados, história e repertório, a partir de 24 pautas da comunidade The Ocarina Network."
-      },
-      "startsAt": "2026-11-07T10:25:31.526Z",
       "title": {
         "pt-BR": "O melhor do fórum The Ocarina Network"
       },
@@ -118,7 +76,7 @@
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/primeiros-passos-na-ocarina/"
         }
       },
-      "id": "mensagem-artigo-primeiros-passos-na-ocarina-20261102t152100755z",
+      "id": "mensagem-artigo-primeiros-passos-na-ocarina",
       "message": {
         "en": "New to the ocarina? This guide covers everything you need to get started, from choosing your instrument to playing your first notes.",
         "pt-BR": "Está começando na ocarina? Este guia é tudo que você precisa para iniciar sua jornada, desde a escolha do instrumento até as primeiras notas."
@@ -126,25 +84,6 @@
       "startsAt": "2026-11-02T15:21:00.755Z",
       "title": {
         "en": "Getting Started with the Ocarina: A Beginner's Guide",
-        "pt-BR": "Primeiros passos na ocarina: um guia para começar"
-      },
-      "type": "info"
-    },
-    {
-      "action": {
-        "label": {
-          "pt-BR": "Ler artigo"
-        },
-        "url": {
-          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/primeiros-passos-na-ocarina/"
-        }
-      },
-      "id": "mensagem-artigo-primeiros-passos-na-ocarina-20261102t102139545z",
-      "message": {
-        "pt-BR": "Está começando na ocarina? Este guia é tudo que você precisa para iniciar sua jornada, desde a escolha do instrumento até as primeiras notas."
-      },
-      "startsAt": "2026-11-02T10:21:39.545Z",
-      "title": {
         "pt-BR": "Primeiros passos na ocarina: um guia para começar"
       },
       "type": "info"
@@ -160,7 +99,7 @@
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/coletanea-de-zelda/"
         }
       },
-      "id": "mensagem-artigo-coletanea-de-zelda-20261031t183012910z",
+      "id": "mensagem-artigo-coletanea-de-zelda",
       "message": {
         "en": "A collection of Zelda songs arranged for the ocarina. Bolero of Fire, Epona’s Song, and Gerudo Valley now include interactive tablature and sheet music.",
         "pt-BR": "Uma coleção de músicas de Zelda com arranjos para Ocarina. Bolero of Fire, Epona Song, Gerudo Valley: inclusão de tablatura iterativa + partitura"
@@ -168,48 +107,6 @@
       "startsAt": "2026-10-31T18:30:12.910Z",
       "title": {
         "en": "Zelda Collection",
-        "pt-BR": "Coletânea de Zelda"
-      },
-      "type": "info"
-    },
-    {
-      "action": {
-        "label": {
-          "en": "Zelda Songs",
-          "pt-BR": "Músicas de Zelda"
-        },
-        "url": {
-          "en": "https://ocarinalibrary.barretolopes.com/en/articles/zelda-collection/",
-          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/coletanea-de-zelda/"
-        }
-      },
-      "id": "mensagem-artigo-coletanea-de-zelda-20261031t175820429z",
-      "message": {
-        "en": "A collection of Zelda songs arranged for the ocarina. Bolero of Fire, Epona’s Song, and Gerudo Valley now include interactive tablature and sheet music.",
-        "pt-BR": "Uma coleção de músicas de Zelda com arranjos para Ocarina. Bolero of Fire, Epona Song, Gerudo Valley: inclusão de tablatura iterativa + partitura"
-      },
-      "startsAt": "2026-10-31T17:58:20.429Z",
-      "title": {
-        "en": "Zelda Collection",
-        "pt-BR": "Coletânea de Zelda"
-      },
-      "type": "info"
-    },
-    {
-      "action": {
-        "label": {
-          "pt-BR": "Ler artigo"
-        },
-        "url": {
-          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/coletanea-de-zelda/"
-        }
-      },
-      "id": "mensagem-artigo-coletanea-de-zelda-20261030t103931348z",
-      "message": {
-        "pt-BR": "Uma coleção de músicas de Zelda com arranjos para Ocarina."
-      },
-      "startsAt": "2026-10-30T10:39:31.348Z",
-      "title": {
         "pt-BR": "Coletânea de Zelda"
       },
       "type": "info"
@@ -225,7 +122,7 @@
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/ocarinas-plasticas-das-guerras-mundiais-um-mito/"
         }
       },
-      "id": "mensagem-artigo-ocarinas-plasticas-das-guerras-mundiais-um-mito-20261028t110323554z",
+      "id": "mensagem-artigo-ocarinas-plasticas-das-guerras-mundiais-um-mito",
       "message": {
         "en": "A historical account of plastic ocarinas",
         "pt-BR": "Uma narrativa histórica das ocarinas de plástico"
@@ -244,34 +141,11 @@
           "pt-BR": "Ler artigo"
         },
         "url": {
-          "en": "https://ocarinalibrary.barretolopes.com/en/articles/plastic-ocarinas-world-wars-myth/",
-          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/ocarinas-plasticas-das-guerras-mundiais-um-mito/"
-        }
-      },
-      "id": "mensagem-artigo-ocarinas-plasticas-das-guerras-mundiais-um-mito-20261028t105737234z",
-      "message": {
-        "en": "A historical account of plastic ocarinas",
-        "pt-BR": "Uma narrativa histórica das ocarinas de plástico"
-      },
-      "startsAt": "2026-10-28T10:57:37.234Z",
-      "title": {
-        "en": "Plastic Ocarinas of the World Wars: Myth or Reality?",
-        "pt-BR": "Ocarinas plásticas das guerras mundiais: um mito?"
-      },
-      "type": "info"
-    },
-    {
-      "action": {
-        "label": {
-          "en": "Read article",
-          "pt-BR": "Ler artigo"
-        },
-        "url": {
           "en": "https://ocarinalibrary.barretolopes.com/en/articles/night-unveils-new-unglazed-ocarina/",
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/night-kiwami-ac-muku/"
         }
       },
-      "id": "mensagem-artigo-night-kiwami-ac-muku-20261025t121450157z",
+      "id": "mensagem-artigo-night-kiwami-ac-muku",
       "message": {
         "en": "The Muku version of the NIGHT Kiwami AC preserves the natural appearance of unglazed ceramic with a beeswax finish. The video also announces a hands-on event in Chigasaki, Japan.",
         "pt-BR": "A versão Muku do NIGHT Kiwami AC preserva a aparência da cerâmica sem esmalte e recebe acabamento de cera de abelha. O vídeo também anuncia uma sessão de experimentação em Chigasaki, no Japão."
@@ -280,52 +154,6 @@
       "title": {
         "en": "NIGHT Unveils New Unglazed Ocarina",
         "pt-BR": "NIGHT apresenta nova ocarina, sem esmalte"
-      },
-      "type": "info"
-    },
-    {
-      "action": {
-        "label": {
-          "en": "Read article",
-          "pt-BR": "Ler artigo"
-        },
-        "url": {
-          "en": "https://ocarinalibrary.barretolopes.com/en/articles/i-discovered-the-ocarina-now-what/",
-          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/descobri-a-ocarina-e-agora/"
-        }
-      },
-      "id": "mensagem-artigo-descobri-a-ocarina-e-agora-20261024t215651076z",
-      "message": {
-        "en": "So you've discovered this amazing musical instrument, but you're not sure which ocarina to buy, where to get one, or how to start learning? I wrote this article specifically to answer those questions!",
-        "pt-BR": "Então você descobriu esse incrível instrumento musical, mas não sabe onde ou qual modelo deve comprar e também ainda não sabe o melhor caminho para começar a aprender? Escrevi este artigo exatamente pensando em responder essas questões!"
-      },
-      "startsAt": "2026-10-24T21:56:51.076Z",
-      "title": {
-        "en": "I Discovered the Ocarina. Now What?",
-        "pt-BR": "Descobri a ocarina. E agora?"
-      },
-      "type": "info"
-    },
-    {
-      "action": {
-        "label": {
-          "en": "Read article",
-          "pt-BR": "Ler artigo"
-        },
-        "url": {
-          "en": "https://ocarinalibrary.barretolopes.com/en/articles/i-discovered-the-ocarina-now-what/",
-          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/descobri-a-ocarina-e-agora/"
-        }
-      },
-      "id": "mensagem-artigo-descobri-a-ocarina-e-agora-20261024t214118083z",
-      "message": {
-        "en": "So you've discovered this amazing musical instrument, but you don't know where to buy one, which model to choose, or the best way to start learning? I wrote this article specifically to answer those questions!",
-        "pt-BR": "Então você descobriu esse incrível instrumento musical, mas não sabe onde ou qual modelo deve comprar e também ainda não sabe o melhor caminho para começar a aprender? Escrevi este artigo exatamente pensando em responder essas questões!"
-      },
-      "startsAt": "2026-10-24T21:41:18.083Z",
-      "title": {
-        "en": "I Discovered the Ocarina. Now What?",
-        "pt-BR": "Descobri a ocarina. E agora?"
       },
       "type": "info"
     },
@@ -362,7 +190,7 @@
           "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/ocarinas-de-multiplas-camaras-o-refinamento-japones-de-uma-arte-italiana/"
         }
       },
-      "id": "mensagem-artigo-ocarinas-de-multiplas-camaras-o-refinamento-japones-de-uma-arte-italiana-20261013t191426762z",
+      "id": "mensagem-artigo-ocarinas-de-multiplas-camaras-o-refinamento-japones-de-uma-arte-italiana",
       "message": {
         "en": "A historical journey through the development of multi-chamber ocarinas in the 19th, 20th, and 21st centuries",
         "pt-BR": "Uma narrativa histórica das ocarinas de múltiplas câmaras no século XIX, XX e XXI"
