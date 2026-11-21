@@ -3,6 +3,71 @@
     {
       "action": {
         "label": {
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/cancoes-populares-vol-2/"
+        }
+      },
+      "id": "mensagem-artigo-cancoes-populares-vol-2",
+      "message": {
+        "pt-BR": "Coleção de algumas melodias populares em domínio público adaptadas para a Ocarina Alto C."
+      },
+      "startsAt": "2026-11-21T18:21:00.000Z",
+      "title": {
+        "pt-BR": "Canções populares vol #2"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
+          "en": "Open file",
+          "pt-BR": "Acessar arquivo"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/drive/drive-9c5020a3-8d25-4564-8ed2-9db2d3c50c88/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/drive/drive-9c5020a3-8d25-4564-8ed2-9db2d3c50c88/"
+        }
+      },
+      "id": "mensagem-drive-drive-9c5020a3-8d25-4564-8ed2-9db2d3c50c88",
+      "message": {
+        "en": "The file **Igor na ACAFI p1** was added to the Library Drive.",
+        "pt-BR": "O arquivo **Igor na ACAFI p1** foi adicionado ao Drive da Library."
+      },
+      "startsAt": "2026-11-11T03:22:46.667Z",
+      "title": {
+        "en": "New file in the Drive: Igor na ACAFI p1",
+        "pt-BR": "Novo arquivo no Drive: Igor na ACAFI p1"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
+          "en": "Open file",
+          "pt-BR": "Acessar arquivo"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/drive/drive-4bc4f9c8-1217-4a53-a3ce-d3af4e1c6cde/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/drive/drive-4bc4f9c8-1217-4a53-a3ce-d3af4e1c6cde/"
+        }
+      },
+      "id": "mensagem-drive-drive-4bc4f9c8-1217-4a53-a3ce-d3af4e1c6cde",
+      "message": {
+        "en": "The file **Igor na ACAFI** was added to the Library Drive.",
+        "pt-BR": "O arquivo **Igor na ACAFI** foi adicionado ao Drive da Library."
+      },
+      "startsAt": "2026-11-11T03:20:11.915Z",
+      "title": {
+        "en": "New file in the Drive: Igor na ACAFI",
+        "pt-BR": "Novo arquivo no Drive: Igor na ACAFI"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
           "en": "Read article",
           "pt-BR": "Ler artigo"
         },
