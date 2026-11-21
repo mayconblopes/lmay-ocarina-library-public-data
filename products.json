@@ -67,6 +67,15 @@
     },
     {
       "brand": "Longxuan",
+      "buttons": [
+        {
+          "label": {
+            "en": "Review",
+            "pt-BR": "Review"
+          },
+          "url": "https://youtu.be/2WCTT5xaxSg"
+        }
+      ],
       "description": {
         "en": "It's an excellent choice for beginners, just as good and affordable as the Montreal.",
         "pt-BR": "É excelente para começar, tão boa e barata quanto a Montreal."
