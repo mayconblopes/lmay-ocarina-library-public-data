@@ -3,6 +3,29 @@
     {
       "action": {
         "label": {
+          "en": "Read article",
+          "pt-BR": "Ler artigo"
+        },
+        "url": {
+          "en": "https://ocarinalibrary.barretolopes.com/en/articles/athletic-theme-en/",
+          "pt-BR": "https://ocarinalibrary.barretolopes.com/artigos/athletic-theme/"
+        }
+      },
+      "id": "mensagem-artigo-athletic-theme",
+      "message": {
+        "en": "Yoshi's Island",
+        "pt-BR": "Yoshi's Island"
+      },
+      "startsAt": "2026-11-22T15:19:59.256Z",
+      "title": {
+        "en": "Athletic Theme",
+        "pt-BR": "Athletic Theme"
+      },
+      "type": "info"
+    },
+    {
+      "action": {
+        "label": {
           "pt-BR": "Ler artigo"
         },
         "url": {
